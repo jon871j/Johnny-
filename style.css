@@ -1,0 +1,33 @@
+.bigbox{
+height:2000px;
+width:1800px;
+border: 5px solid black;
+}
+
+.box{
+height:50px;
+width:1800px;
+border: 5px solid black;    
+}
+
+.box1{
+height:100px;
+width:1800px; 
+border: 5px solid black; 
+}
+
+.box2{
+height:350px;
+width:1800px;
+border: 5px solid black;
+}
+
+.box3{
+height:100px;
+width:1800px;
+border: 5px solid black;
+}
+
+.box4{
+height:;
+}
